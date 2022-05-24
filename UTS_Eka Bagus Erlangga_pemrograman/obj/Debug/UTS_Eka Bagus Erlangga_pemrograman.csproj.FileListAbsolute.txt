@@ -1,0 +1,8 @@
+E:\adobe ilustrator\UTS_Eka Bagus Erlangga_pemrograman\UTS_Eka Bagus Erlangga_pemrograman\bin\Debug\UTS_Eka Bagus Erlangga_pemrograman.exe.config
+E:\adobe ilustrator\UTS_Eka Bagus Erlangga_pemrograman\UTS_Eka Bagus Erlangga_pemrograman\bin\Debug\UTS_Eka Bagus Erlangga_pemrograman.exe
+E:\adobe ilustrator\UTS_Eka Bagus Erlangga_pemrograman\UTS_Eka Bagus Erlangga_pemrograman\bin\Debug\UTS_Eka Bagus Erlangga_pemrograman.pdb
+E:\adobe ilustrator\UTS_Eka Bagus Erlangga_pemrograman\UTS_Eka Bagus Erlangga_pemrograman\obj\Debug\UTS_Eka Bagus Erlangga_pemrograman.csproj.AssemblyReference.cache
+E:\adobe ilustrator\UTS_Eka Bagus Erlangga_pemrograman\UTS_Eka Bagus Erlangga_pemrograman\obj\Debug\UTS_Eka Bagus Erlangga_pemrograman.csproj.SuggestedBindingRedirects.cache
+E:\adobe ilustrator\UTS_Eka Bagus Erlangga_pemrograman\UTS_Eka Bagus Erlangga_pemrograman\obj\Debug\UTS_Eka Bagus Erlangga_pemrograman.csproj.CoreCompileInputs.cache
+E:\adobe ilustrator\UTS_Eka Bagus Erlangga_pemrograman\UTS_Eka Bagus Erlangga_pemrograman\obj\Debug\UTS_Eka Bagus Erlangga_pemrograman.exe
+E:\adobe ilustrator\UTS_Eka Bagus Erlangga_pemrograman\UTS_Eka Bagus Erlangga_pemrograman\obj\Debug\UTS_Eka Bagus Erlangga_pemrograman.pdb
